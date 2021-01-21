@@ -1,7 +1,7 @@
 function kilometerToMeter(number) {
     if (number > 0) {
         var meter = number * 1000;
-        return meter
+        return meter;
     } else {
         return 'Please enter a valid number';
     }
